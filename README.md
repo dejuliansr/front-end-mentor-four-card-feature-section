@@ -25,7 +25,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ![image](https://github.com/user-attachments/assets/ffa307f1-a337-4062-a3bf-9cb40bffb946)
 ### Links
 
-- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-front-end-mentor-four-card-feature-section](https://dejuliansr.github.io/front-end-mentor-front-end-mentor-four-card-feature-section)
+- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-four-card-feature-section](https://dejuliansr.github.io/front-end-mentor-four-card-feature-section)
 
 ## My process
 
